@@ -133,8 +133,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'mymail@gmail.com'
-EMAIL_HOST_PASSWORD = '************'
+EMAIL_HOST_USER = 'iemhrapp@gmail.com'
+EMAIL_HOST_PASSWORD = 'MyAcn@921p'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 

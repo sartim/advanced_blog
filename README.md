@@ -1,7 +1,7 @@
 Advanced Blog
 --------------------------------------
 
-*This is emphasized* and **this is more emphasized**.
+*Django blog* with **advanced features**.
 
 Features:
 
